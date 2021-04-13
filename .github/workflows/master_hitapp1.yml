@@ -53,5 +53,5 @@ jobs:
       with:
         app-name: 'hitapp1'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_1ed3e918f210458fba192beb15090524 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_24bdcb7e04b642e986e9172590718f41 }}
         package: .
